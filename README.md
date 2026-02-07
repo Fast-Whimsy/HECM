@@ -82,6 +82,13 @@ In this progression:
 - Attractor basins
 - Identity-preserving evolution
 
+### v0.3.0 — Population Layer (form)
+- Beam networks
+- Multi-field dynamics
+- Weighted adjacency matrices
+- Optional global constraints
+- Example script demonstrating network-level grain propagation
+
 ---
 
 ## Planned documentation structure
