@@ -18,6 +18,7 @@ This repository contains:
 - the evolving architecture of the model
 
 ---
+
 ## Version Roadmap
 
 ### v0.1.0 — Coherence Layer (mesh)
@@ -40,26 +41,49 @@ Release notes: docs/architecture/v0.2.0-release-notes.md
 - Weighted adjacency matrices  
 - Optional global constraints  
 - Example script demonstrating network-level grain propagation  
-Documentation: docs/architecture/population.md  ## Repository Structure
+Documentation: docs/architecture/population.md  
+Release notes: docs/architecture/v0.3.0-release-notes.md
+
+### v1.0.0 — Attractor Layer (identity)
+- Population-level attractors  
+- Attractor basins  
+- Identity-preserving evolution  
+Documentation: docs/architecture/attractors.md
+
+---
+
+## Repository Structure
 
 HECM/
-  qf_entangle_beam.py
-  qf_population_update.py
-  examples/
-    entangle_two_fields.py
-    population_network_demo.py
-  docs/
-    architecture/
-      coherence.md
-      entanglement.md
-      population.md
-      attractors.md
-      qf-prelude.md
-      v0.2.0-release-notes.md
-      v0.3.0-release-notes.md
-  src/
-    hecm/
-      __init__.py## Code Examples
+  qf_entangle_beam.py  
+  qf_population_update.py  
+  examples/  
+    entangle_two_fields.py  
+    population_network_demo.py  
+  docs/  
+    architecture/  
+      coherence.md  
+      entanglement.md  
+      population.md  
+      attractors.md  
+      qf-prelude.md  
+      v0.2.0-release-notes.md  
+      v0.3.0-release-notes.md  
+  src/  
+    hecm/  
+      __init__.py  
+      core.py  
+  tests/  
+    test_coherence.py  
+    test_imports.py  
+  README.md  
+  LICENSE  
+  CITATION.cff  
+  pyproject.toml
+
+---
+
+## Code Examples
 
 ### Pairwise Entanglement
 python examples/entangle_two_fields.py
@@ -67,7 +91,9 @@ python examples/entangle_two_fields.py
 ### Population Network Update
 python examples/population_network_demo.py
 
----## Documentation
+---
+
+## Documentation
 
 All conceptual documentation is located in:
 
@@ -83,38 +109,28 @@ Including:
 
 ---
 
+## Citation
 
-      core.py
-  tests/
-    test_coherence.py
-    test_imports.py
-  README.md
-  LICENSE
-  CITATION.cff
-  pyproject.toml
-
-Release notes: docs/architecture/v0.3.0-release-notes.md
-
-### v1.0.0 — Attractor Layer (identity)
-- Population-level attractors  ## Citation
-- Attractor basins  
-- Identity-preserving evolution  
-Documentation: docs/architecture/attractors.md
-
+If you use HECM in research, please cite using the CITATION.cff file.
 
 ---
 
-If you use HECM in research, please cite using the CITATION.cff file.
+## License
+
+MIT License. See the LICENSE file for details.
 
 ---
 
 Thank you for exploring the Holographic Entangled Coherence Model (HECM).  
 This repository will continue to evolve as the model thickens through future versions and research contributions.
 
+---
 
-## License
+## Contributing
 
-MIT License. See the LICENSE file for details.
+Contributions to the HECM project are welcome.  
+If you wish to propose improvements, submit examples, or extend the model, please open an issue or submit a pull request.
 
+All contributions should maintain conceptual clarity, structural coherence, and alignment with the layered architecture of the model.
 
 ---
