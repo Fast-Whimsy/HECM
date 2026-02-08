@@ -1,3 +1,4 @@
+```
 # Holographic Entangled Coherence Model (HECM)
 
 The Holographic Entangled Coherence Model (HECM) is a layered, generative framework for understanding how stable patterns (grain) emerge, propagate, and consolidate into global identity across interacting fields.
@@ -5,10 +6,10 @@ The Holographic Entangled Coherence Model (HECM) is a layered, generative framew
 HECM is built as a **single trunk**, not a branching architecture.  
 Each version thickens the model without forking it:
 
-- v0.1.0 â€” Coherence (mesh)
-- v0.2.0 â€” Entanglement (fabric)
-- v0.3.0 â€” Population (form)
-- v1.0.0 â€” Attractors (identity)
+- v0.1.0 — Coherence (mesh)
+- v0.2.0 — Entanglement (fabric)
+- v0.3.0 — Population (form)
+- v1.0.0 — Attractors (identity)
 
 This repository contains:
 - reference implementation code
@@ -23,10 +24,10 @@ This repository contains:
 
 HECM is built on four conceptual layers:
 
-1. **Coherence** â€” local stability and grain formation  
-2. **Entanglement** â€” pairwise grain sharing via beams  
-3. **Population** â€” networked grain propagation and emergent form  
-4. **Attractors** â€” global identity and basin dynamics  
+1. **Coherence** — local stability and grain formation  
+2. **Entanglement** — pairwise grain sharing via beams  
+3. **Population** — networked grain propagation and emergent form  
+4. **Attractors** — global identity and basin dynamics  
 
 Each layer contains the previous one.  
 Nothing is replaced.  
@@ -63,19 +64,18 @@ HECM/
   LICENSE
   CITATION.cff
   pyproject.toml
-```
 
 ---
 
 ## Version Roadmap
 
-### **v0.1.0 â€” Coherence Layer (mesh)**
+### **v0.1.0 — Coherence Layer (mesh)**
 - Field representation  
 - Local coherence operator  
 - Emergence of grain  
 Documentation: `docs/architecture/coherence.md`
 
-### **v0.2.0 â€” Entanglement Layer (fabric)**
+### **v0.2.0 — Entanglement Layer (fabric)**
 - Introduction of information beams  
 - `qf_entangle_beam` operator  
 - Shared grain across fields  
@@ -83,7 +83,7 @@ Documentation: `docs/architecture/coherence.md`
 Documentation: `docs/architecture/entanglement.md`  
 Release notes: `docs/architecture/v0.2.0-release-notes.md`
 
-### **v0.3.0 â€” Population Layer (form)**
+### **v0.3.0 — Population Layer (form)**
 - Beam networks  
 - Multi-field dynamics  
 - Weighted adjacency matrices  
@@ -92,7 +92,7 @@ Release notes: `docs/architecture/v0.2.0-release-notes.md`
 Documentation: `docs/architecture/population.md`  
 Release notes: `docs/architecture/v0.3.0-release-notes.md`
 
-### **v1.0.0 â€” Attractor Layer (identity)**
+### **v1.0.0 — Attractor Layer (identity)**
 - Population-level attractors  
 - Attractor basins  
 - Identity-preserving evolution  
