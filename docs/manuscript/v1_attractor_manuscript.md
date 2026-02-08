@@ -20,7 +20,9 @@
 
 \*\*Last Updated:\*\* 2026‑02‑07
 
-# 1. Introduction: The Emergence of Identity
+
+
+\# 1. Introduction: The Emergence of Identity
 
 
 
@@ -34,7 +36,9 @@ Before identity, there is only potential — a field of interactions without pre
 
 
 
-HECM begins in this pre‑identity state.  
+HECM begins in this pre‑identity state.
+
+
 
 The coherence layer establishes the first footholds of stability.  
 
@@ -84,7 +88,35 @@ This manuscript introduces the attractor layer — the first layer in which iden
 
 \- how identity propagates  
 
-\- how collective identity emerges  # 2. The Nature of Attractors
+\- how collective identity emerges  
+
+
+
+The attractor layer is the interpretive layer of HECM.  
+
+It is where the system begins to behave like a \*\*self\*\*.
+
+
+
+Not a self in the human sense —  
+
+but a self in the mathematical sense:  
+
+a stable center of gravity in the system’s state space.
+
+
+
+Identity is not assigned.  
+
+Identity is discovered.
+
+
+
+And once discovered, it becomes the organizing principle of the system’s evolution.
+
+
+
+\# 2. The Nature of Attractors
 
 
 
@@ -195,6 +227,8 @@ The attractor layer describes what the system is \*\*becoming\*\*.
 
 
 It is the first layer where the system’s future is shaped by its past.
+
+
 
 \# 3. How Basins Form
 
@@ -411,6 +445,8 @@ With basins, identity becomes inevitable.
 
 
 The attractor layer builds on this foundation.
+
+
 
 \# 4. How Identity Stabilizes
 
@@ -916,7 +952,21 @@ The attractor layer gives us the tools to understand:
 
 \- when transitions will occur  
 
-\- how they will unfold  # 6. How Attractors Propagate Through Entangled Networks
+\- how they will unfold  
+
+\- which identities are likely to emerge  
+
+\- how stability will be restored  
+
+
+
+Transitions are not anomalies.  
+
+They are the natural evolution of identity.
+
+
+
+\# 6. How Attractors Propagate Through Entangled Networks
 
 
 
@@ -1096,7 +1146,31 @@ Once attractors propagate, the system becomes capable of:
 
 
 
-\- coordinated action  # 7. How Collective Identity Emerges
+\- coordinated action  
+
+\- synchronized transitions  
+
+\- shared norms  
+
+\- emergent intelligence  
+
+\- collective adaptation  
+
+
+
+Propagation is the bridge between individual identity and collective identity.  
+
+It is how the system becomes more than the sum of its parts.
+
+
+
+This sets the stage for the final section of the frame:  
+
+\*\*how collective identity emerges\*\* — the moment when the system stabilizes around a shared center of gravity.
+
+
+
+\# 7. How Collective Identity Emerges
 
 
 
@@ -1301,76 +1375,6 @@ Collective identity is the foundation for the system’s long‑term evolution.
 It is the final stone of the attractor layer —  
 
 and the first stone of everything that comes after.
-
-
-
-\- synchronized transitions  
-
-\- shared norms  
-
-\- emergent intelligence  
-
-\- collective adaptation  
-
-
-
-Propagation is the bridge between individual identity and collective identity.  
-
-It is how the system becomes more than the sum of its parts.
-
-
-
-This sets the stage for the final section of the frame:  
-
-\*\*how collective identity emerges\*\* — the moment when the system stabilizes around a shared center of gravity.
-
-
-
-
-
-\- which identities are likely to emerge  
-
-\- how stability will be restored  
-
-
-
-Transitions are not anomalies.  
-
-They are the natural evolution of identity.
-
-
-
-
-
-
-
-
-
-
-
-The attractor layer is the interpretive layer of HECM.  
-
-It is where the system begins to behave like a \*\*self\*\*.
-
-
-
-Not a self in the human sense —  
-
-but a self in the mathematical sense:  
-
-a stable center of gravity in the system’s state space.
-
-
-
-Identity is not assigned.  
-
-Identity is discovered.
-
-
-
-And once discovered, it becomes the organizing principle of the system’s evolution.
-
-
 
 
 
