@@ -1,136 +1,37 @@
-# Holographic Entangled Coherence Model (HECM)
+# HECM  
+### Holographic Entangled Coherence Model — Node in the Coherence Lineage
 
-The Holographic Entangled Coherence Model (HECM) is a layered, generative framework for understanding how stable patterns (grain) emerge, propagate, and consolidate into global identity across interacting fields.
+## Overview
+The Holographic Entangled Coherence Model (HECM) extends the Coherence Mirror Framework into a holographic representational environment capable of modeling individual and collective reasoning across the **three foundational mirrors**: empirical, conceptual, and axiological.
 
-HECM is built as a **single trunk**, not a branching architecture.  
-Each version thickens the model without forking it:
+This repository is an example of an **Active Manuscript**:  
+a scholarly artifact that is both a conceptual model and an executable cognitive architecture.
 
-- v0.1.0 — Coherence (mesh)  
-- v0.2.0 — Entanglement (fabric)  
-- v0.3.0 — Population (form)  
-- v1.0.0 — Attractors (identity)
+## Lineage
+ECM-Framework (root)  
+? CMF-Framework (node)  
+? HECM (node)  
+? CMF-Diamond (branch)  
+? HECM-Diamond (branch)
 
-This repository contains:
-- reference implementation code  
-- conceptual documentation  
-- example scripts  
-- release notes  
-- the evolving architecture of the model
+## Purpose
+HECM defines the holographic substrate and coherence structures that support multi-agent reasoning, collective world models, and cross-domain alignment.  
+It generalizes the CMF-Framework into a representational environment suitable for modeling scientific, organizational, and socio-technical systems.
 
----
+## Three-Mirror Architecture
+HECM inherits the **three-mirror structure** from ECM and CMF-Framework:
+- Empirical  
+- Conceptual  
+- Axiological  
 
-## Version Roadmap
+These mirrors interact within a unified holographic substrate, enabling resonance-based coherence across individuals and populations.
 
-### v0.1.0 — Coherence Layer (mesh)
-- Field representation  
-- Local coherence operator  
-- Emergence of grain  
-Documentation: docs/architecture/coherence.md
+The **Social Mirror** is *not* part of HECM.  
+It is introduced downstream in **CMF-Diamond** and inherited by **HECM-DIAMOND**.
 
-### v0.2.0 — Entanglement Layer (fabric)
-- Introduction of information beams  
-- qf_entangle_beam operator  
-- Shared grain across fields  
-- Example script demonstrating pairwise entanglement  
-Documentation: docs/architecture/entanglement.md  
-Release notes: docs/architecture/v0.2.0-release-notes.md
-
-### v0.3.0 — Population Layer (form)
-- Beam networks  
-- Multi-field dynamics  
-- Weighted adjacency matrices  
-- Optional global constraints  
-- Example script demonstrating network-level grain propagation  
-Documentation: docs/architecture/population.md  
-Release notes: docs/architecture/v0.3.0-release-notes.md
-
-### v1.0.0 — Attractor Layer (identity)
-- Population-level attractors  
-- Attractor basins  
-- Identity-preserving evolution  
-Documentation: docs/architecture/attractors.md
-
----
-
-## Repository Structure
-
-HECM/
-  qf_entangle_beam.py  
-  qf_population_update.py  
-  examples/  
-    entangle_two_fields.py  
-    population_network_demo.py  
-  docs/  
-    architecture/  
-      coherence.md  
-      entanglement.md  
-      population.md  
-      attractors.md  
-      qf-prelude.md  
-      v0.2.0-release-notes.md  
-      v0.3.0-release-notes.md  
-  src/  
-    hecm/  
-      __init__.py  
-      core.py  
-  tests/  
-    test_coherence.py  
-    test_imports.py  
-  README.md  
-  LICENSE  
-  CITATION.cff  
-  pyproject.toml
-
----
-
-## Code Examples
-
-### Pairwise Entanglement
-python examples/entangle_two_fields.py
-
-### Population Network Update
-python examples/population_network_demo.py
-
----
-
-## Documentation
-
-All conceptual documentation is located in:
-
-docs/architecture/
-
-Including:
-- coherence layer  
-- entanglement layer  
-- population layer  
-- attractor layer  
-- QF prelude (mathematical intuition)  
-- release notes for each version  
-
----
-
-## Citation
-
-If you use HECM in research, please cite using the CITATION.cff file.
-
----
+## Repository Metadata
+DOI to be added upon publication.  
+ORCID: https://orcid.org/0000-0003-0800-5802
 
 ## License
-
-MIT License. See the LICENSE file for details.
-
----
-
-Thank you for exploring the Holographic Entangled Coherence Model (HECM).  
-This repository will continue to evolve as the model thickens through future versions and research contributions.
-
----
-
-## Contributing
-
-Contributions to the HECM project are welcome.  
-If you wish to propose improvements, submit examples, or extend the model, please open an issue or submit a pull request.
-
-All contributions should maintain conceptual clarity, structural coherence, and alignment with the layered architecture of the model.
-
----
+MIT

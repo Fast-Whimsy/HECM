@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.2.1
 title: "Holographic Entangled Coherence Model (HECM)"
 message: "If you use this software, please cite it using the metadata below."
 type: software
@@ -7,6 +7,12 @@ authors:
     given-names: Harry Steven
     alias: Steve
 repository-code: "https://github.com/dirtyharry1951/HECM"
+
+  - family-names: Harrell
+    given-names: Martha Nanette
+    orcid: "https://orcid.org/0000-0003-0800-5802"
+repository-code: "https://github.com/Fast-Whimsy/HECM"
+
 license: MIT
 version: "0.1.0"
 date-released: "2026-02-07"
@@ -16,3 +22,14 @@ keywords:
   - dynamical systems
   - computational modeling
   - HECM
+  - holographic model
+  - multi-agent reasoning
+cff-version: 1.2.0
+
+abstract: >
+  HECM extends the Coherence Mirror Framework into a holographic representational
+  environment, modeling individual and collective reasoning across the three
+  foundational mirrors (empirical, conceptual, axiological) and providing a node
+  in the coherence lineage.
+
+license: "MIT"
